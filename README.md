@@ -1,7 +1,7 @@
 #  A De-singularity Subgradient Approach for the Extended Weber Location Problem
 This repository contains the supplementary material and codes for the paper: 
 
-Zhao-Rong Lai, Xiaotian Wu, Liangda Fang, Ziliang Chen, "A De-singularity Subgradient Approach for the Extended Weber Location Problem", the 33rd International Joint Conference on Artificial Intelligence (IJCAI, main track), 2024.
+Zhao-Rong Lai, Xiaotian Wu, Liangda Fang, Ziliang Chen*, "A De-singularity Subgradient Approach for the Extended Weber Location Problem", the 33rd International Joint Conference on Artificial Intelligence (IJCAI, main track), 2024.
 
 1.`Desingularity_IJCAI24_Supplementary_Material.pdf` is the supplementary material for this conference paper. Please read this file as well to better understand the main text of this paper.
 
